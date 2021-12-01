@@ -1,4 +1,4 @@
-# [Web Portfolio] (https://jglobaton10.github.io/Projects/)
+# [Web Portfolio](https://jglobaton10.github.io/Projects/)
 ---
 
 ## [League of legends champion classifier](https://jglobaton10.github.io/LeagueOfLegendsChampionClassifier/) 🔗
