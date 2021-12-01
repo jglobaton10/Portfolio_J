@@ -10,9 +10,9 @@
 This is and end to end image classification machine learning project using convolutional neural networks (CNN). It is based on my favorite video game **League of Legends**.
 
 <p>
-<img src="images/lol_gif_part_1_Trim-_2_.gif" width="45%"/>
+<img src="https://github.com/jglobaton10/Projects/blob/master/images/lol_gif_part_1_Trim-_2_.gif" width="45%"/>
 &nbsp; &nbsp;  &nbsp;  &nbsp;
-<img src="images/lol_gif_part_1_Trim.gif" width="45%"/>
+<img src="https://github.com/jglobaton10/Projects/blob/master/images/lol_gif_part_1_Trim.gif" width="45%"/>
 </p>
 
 The project has three parts: [Model](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/model/model.ipynb), [Backend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/blob/main/Flaskserver/server.py), [Frontend](https://github.com/jglobaton10/LeagueOfLegendsChampionClassifier/tree/main/Front_end).
@@ -29,9 +29,9 @@ This was part of a consulting project for a dependency of University of the Ande
 The data model for this project was built using an ETL with pyspark and SQL server. 
 
 <p>
-<img src="images/infraestructra visible2.gif" width="45%"/>
+<img src="https://github.com/jglobaton10/Projects/blob/master/images/infraestructura%20visible.gif" width="45%"/>
 &nbsp; &nbsp;  &nbsp;  &nbsp;
-<img src="images/infraestructura visible.gif" width="45%"/>
+<img src="https://github.com/jglobaton10/Projects/blob/master/images/infraestructra%20visible2.gif" width="45%"/>
 </p>
 
 
